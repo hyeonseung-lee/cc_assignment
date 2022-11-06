@@ -6,4 +6,4 @@
 
 ### 실행방법
 
-- npm start
+- https://hyeonseung-lee.github.io/cc_assignment/ 접속
